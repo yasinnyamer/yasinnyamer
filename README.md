@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yasinnyamer/yasinnyamer/blob/output/snake.svg" alt="Snake animation" />
-
-###
